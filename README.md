@@ -34,3 +34,4 @@ Copy `.env.example` to `.env` and fill in your own values. Server-side secrets m
 ## Deployment
 
 The app can be deployed to any host that supports Node.js/TanStack Start and environment variables. A hosted app-builder account is not required.
+updated
